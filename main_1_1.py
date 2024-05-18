@@ -467,7 +467,7 @@ by providing all the information we can
                                             st.experimental_rerun()
                                         else:
                                             
-                                            def rate_reloader(comodity):
+                                            
                                                 
                                             
                                             if st.button("Back"):
